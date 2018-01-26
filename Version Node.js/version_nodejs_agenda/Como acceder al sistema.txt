@@ -1,0 +1,9 @@
+Acceso al Ssistema
+1.- Instalar NodeJS
+2.- Instalar MongoDB
+3.- Arrancar servicios de MongoDB
+4.- Arrancar servicios de NodeJS con: node index.js
+5.- abrir su navegador preferido y colocar localhost:3000
+    usuarios DEMO: para ingresar al sistema.
+	usuario: edgar-barrero-h@hotmail.com
+	pasword: 123456
